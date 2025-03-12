@@ -5,25 +5,25 @@ Visual Health Advisor is an AI-powered platform designed to assist in medical im
 
 ## Features
 
-Upload and analyze medical images (PNG, JPG, JPEG)
+- Upload and analyze medical images (PNG, JPG, JPEG)
 
-AI-driven insights based on a structured prompt
+- AI-driven insights based on a structured prompt
 
-Detailed analysis reports with actionable recommendations
+- Detailed analysis reports with actionable recommendations
 
-Supports healthcare professionals in identifying medical conditions
+- Supports healthcare professionals in identifying medical conditions
 
-Ensures compliance with safety settings to prevent misinformation
+- Ensures compliance with safety settings to prevent misinformation
 
 ## Tech Stack
 
-Python: Core programming language
+- Python: Core programming language
 
-Streamlit: Web interface for interactive user experience
+- Streamlit: Web interface for interactive user experience
 
-Google Gemini AI: AI model for image analysis
+- Google Gemini AI: AI model for image analysis
 
-Google API: Secure authentication and API integration
+- Google API: Secure authentication and API integration
 
 ## Installation and Setup
 
